@@ -1,3 +1,3 @@
 name = "Hailey"
 print("Hello,", name)
-print("克隆仓库修改的内容")
+print("原仓库和克隆仓库共同修改的内容")
