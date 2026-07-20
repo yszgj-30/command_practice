@@ -1,0 +1,17 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 环境变量和密钥
+.env
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 日志
+*.log
